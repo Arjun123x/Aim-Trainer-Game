@@ -5,6 +5,7 @@ import time
 pygame.init()
 pygame.mixer.init()
 # Load sound effects
+#change
 hit_sound = pygame.mixer.Sound('sounds/eLaser.wav')  
 bomb_sound = pygame.mixer.Sound('sounds/bomb_sound.mp3')
 #bombs class
